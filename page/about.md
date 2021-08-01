@@ -21,15 +21,17 @@ June 2015 - June 2018
 - I studied Bachelor of IT in Artificial Intelligence at [Multimedia University, Melaka](https://www.mmu.edu.my/melaka/). 
 
 August 2018 - October 2018
-- I worked 3 months as technical support in a marketing company. A good experience to let me realize I still like coding.
+- I worked 3 months as technical support in a marketing company. A good experience to let me realize that I still like coding.
 
 November 2018 - present
-- I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Ho](https://www.linkedin.com/in/peterhocc). 
-- I am done with the writing. Now waiting to submit thesis for viva.
+- [Jan 2019] I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Ho](https://www.linkedin.com/in/peterhocc) and [Dr Ting](https://mmuexpert.mmu.edu.my/cyting). 
+- [May 2021] I am done with the writing. Now waiting to submit thesis for viva.
+- [July 2021] Thesis submitted.
 
 November 2020 - April 2021
 - I worked as data scientist at a mdecial service company.
 
 May 2021 - present
 - I worked as research assitant at Sunway University.
-- I joined General Assembly Malaysia as teaching assistant.
+
+[comment]: # (I joined General Assembly Malaysia as teaching assistant.)
