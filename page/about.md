@@ -15,7 +15,7 @@ Summary
 | 13[2008] - 17[2013]  | High School - Science |
 | 18[2014]  | Foundation - Science |
 | 19[2015] - 22[2018]  | BIT - AI |
-| 23[2019] - 25[2021]  | Msc IT - Data Science |
+| 23[2019] - 25[2021]  | MSc IT - Data Science |
 
 June 2015 - June 2018 
 - I studied Bachelor of IT in Artificial Intelligence at [Multimedia University, Melaka](https://www.mmu.edu.my/melaka/). 
@@ -24,7 +24,7 @@ August 2018 - October 2018
 - I worked 3 months as technical support in a marketing company. A good experience to let me realize that I still like coding.
 
 November 2018 - present
-- [Jan 2019] I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Ho](https://www.linkedin.com/in/peterhocc) and [Dr Ting](https://mmuexpert.mmu.edu.my/cyting). 
+- [Jan 2019] I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Ho Chiung Ching](https://scholar.google.com/citations?hl=en&user=lBD5ra0AAAAJ) and [Dr Ting Choo Yee](https://scholar.google.com/citations?user=jft11b4AAAAJ&hl=en). 
 - [May 2021] I am done with the writing. Now waiting to submit thesis for viva.
 - [July 2021] Thesis submitted.
 
