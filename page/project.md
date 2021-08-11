@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Project
 subtitle: Some work done.
 ---
 

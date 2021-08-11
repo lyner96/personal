@@ -16,8 +16,8 @@ title: Lyner Lim
 navbar-links:
   About: "page/about"
   Note: "page/note"
-  Research: "page/research"
-  Portfolio: "page/portfolio"
+  Publication: "page/publication"
+  Project: "page/project"
   CV: "page/Lyner_Resume.pdf"
 
 # --- Logo --- #
