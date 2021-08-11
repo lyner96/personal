@@ -24,7 +24,7 @@ August 2018 - October 2018
 - I worked 3 months as technical support in a marketing company. A good experience to let me realize that I still like coding.
 
 November 2018 - present
-- [Jan 2019] I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Ho Chiung Ching](https://scholar.google.com/citations?hl=en&user=lBD5ra0AAAAJ) and [Dr Ting Choo Yee](https://scholar.google.com/citations?user=jft11b4AAAAJ&hl=en). 
+- [Jan 2019] I am doing Master of Science in IT by research at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) under supervision of [Ho Chiung Ching](https://scholar.google.com/citations?hl=en&user=lBD5ra0AAAAJ) and [Ting Choo Yee](https://scholar.google.com/citations?user=jft11b4AAAAJ&hl=en). 
 - [May 2021] I am done with the writing. Now waiting to submit thesis for viva.
 - [July 2021] Thesis submitted.
 
