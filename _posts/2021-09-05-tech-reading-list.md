@@ -22,6 +22,7 @@ Here's a reading list that I think is beneficial for anyone interested in comput
 <p>
     <b>The Pragmatic Programmer: From Journeyman to Master</b> <br>	
     Andrew Hunt, David Thomas <br>
+    <br>
     <b>Clean Code: A Handbook of Agile Software Craftsmanship</b> <br>
     Robert C. Martin <br>
 </p>
@@ -32,9 +33,11 @@ Here's a reading list that I think is beneficial for anyone interested in comput
 <p>
     <b>The Master Algorithm</b> <br>
     Pedro Domingos<br>
-    <i>The categorization of machine learning algorithms is good, but I dislike his idea of master algorithm.</i>
+    <i>The categorization of machine learning algorithms is good, but I dislike his idea of master algorithm.</i> <br>
+    <br>
     <b>Human Compatible: AI and the Problem of Control</b> <br>	
     Stuart Russell<br>
+    <br>
     <b>Rebooting AI: Building Artificial Intelligence We Can Trust</b> <br>	
     Gary Marcus, Ernest Davis<br>
 </p>
@@ -45,6 +48,7 @@ Here's a reading list that I think is beneficial for anyone interested in comput
 <p>
     <b>Deep Learning</b> <br>
     Ian Goodfellow, Yoshua Bengio, Aaron Courville<br>
+    <br>
     <b>Deep Learning with Python</b> <br>	
     François Chollet <br>
     <i>Practical - Keras and TensorFlow</i>
