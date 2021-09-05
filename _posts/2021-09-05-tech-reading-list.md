@@ -60,6 +60,7 @@ Here's a reading list that I think is beneficial for anyone interested in comput
 <p>
     <b>Algorithms to Live By: The Computer Science of Human Decisions</b> <br>
     Brian Christian, Tom Griffiths<br>
+    <br>
     <b>Storytelling with Data: A Data Visualization Guide for Business Professionals</b> <br>	
     Cole Nussbaumer Knaflic<br>
 </p>
