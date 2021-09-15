@@ -13,7 +13,7 @@ There are three main types of learning:
 3. Reinforcement Learning
 
 There are also hybrid learning approach:
-1. [Semi-supervised Learning](/markdown/semi-supervised.md)
+1. [Semi-supervised Learning](../markdown/semi-supervised.md)
 2. Self-supervised Learning
 
 
