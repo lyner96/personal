@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'Semi-supervised Learning'
 date: 2021-09-15
 tags: [technical]

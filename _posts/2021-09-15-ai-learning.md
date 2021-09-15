@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: 'Learning in AI'
 date: 2021-09-15
 tags: [general]
