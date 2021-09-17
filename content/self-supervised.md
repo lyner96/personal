@@ -21,4 +21,4 @@ Taken from:
 
 Read more:
 
-[Bootstrap Your Own Latent (BYOL)](../../subcontent/byol.md)
+[Bootstrap Your Own Latent (BYOL)](../../subcontent/byol)
