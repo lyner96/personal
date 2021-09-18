@@ -14,8 +14,8 @@ Summary
 | 7[2002] - 12[2007] | Primary school |
 | 13[2008] - 17[2013]  | High School - Science |
 | 18[2014]  | Foundation - Science |
-| 19[2015] - 22[2018]  | BIT - AI |
-| 23[2019] - 25[2021]  | MSc IT - Data Science |
+| 19[2015] - 22[2018]  | B.IT - AI |
+| 23[2019] - 25[2021]  | M.Sc.(IT) - Data Science |
 
 June 2015 - June 2018 
 - I studied Bachelor of IT in Artificial Intelligence at [Multimedia University, Melaka](https://www.mmu.edu.my/melaka/). 
@@ -29,7 +29,7 @@ November 2018 - present
 - [July 2021] Thesis submitted.
 
 November 2020 - April 2021
-- I worked as data scientist at a mdecial service company.
+- I worked as data scientist at a medical service company.
 
 May 2021 - present
 - I worked as research assitant at Sunway University.
